@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="tech_crunch">TechCrunch</string>
+    <string name="us_business">US Business</string>
+    <string name="india_business">India Business</string>
+    <string name="apple">Apple</string>
+    <string name="daily_news">Daily News</string>
+
+
+    <string name="news_image">News Image</string>
+    <string name="back_button">Back Button</string>
+</resources>
